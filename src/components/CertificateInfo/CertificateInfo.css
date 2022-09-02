@@ -1,0 +1,14 @@
+.infobox {
+  border: 1px solid black;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.infobox__content {
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(166, 164, 164);
+}

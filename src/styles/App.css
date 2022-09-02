@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px;
+  width: 100%;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+ul {
+  margin: 0;
+}
+
+.button {
+  width: 100px;
+  margin: auto;
+}
